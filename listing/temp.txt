@@ -1,0 +1,4 @@
+● Music Player Now play music and organise playlists with advance and stunning music player. Play and add files to music queue, shuffle, encrypt, backup and much more. Music will keep playing even if you close the app!
+● Album View You can view categories like images, songs, videos, documents etc in albums other than tabs. It supports swipe gestures and quick search.
+● Added grid layout options in categories and explorer
+● Bug fixes and improvements
