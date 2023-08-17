@@ -1,18 +1,18 @@
 # RFM: File Manager and Media Player
 #### RFM is a modern, powerful and customisable file manager and media player that lets you easily clean, explore and manage files on your device
 
-#### Inspired by the Windows FIle Explorer
-###### See also
+##### `Inspired by the Windows FIle Explorer`
+
+## Release
+* Install the latest version from [Google Play Store](https://play.google.com/store/apps/details?id=com.rc.rfm)  
+* See [Developer Page](https://play.google.com/store/apps/dev?id=7315303590538030232) 
+
+###### See some other projects
 [3D N*N Rubik's Cube solver-AI](https://github.com/ChauhanRohan-RC/Cube.git)  
 [Fourier Series Simulation](https://github.com/ChauhanRohan-RC/Fourier-Series.git)  
 [RSA Encryptor](https://github.com/ChauhanRohan-RC/RSA-Encryptor.git)
 
 <img src="listing\published\home_light.png" />
-
-## Release
-
-* Install the latest build from [Google Play Store](https://play.google.com/store/apps/details?id=com.rc.rfm)  
-* See [Developer Page](https://play.google.com/store/apps/dev?id=7315303590538030232) 
 
 ## ✓ Clean
 
